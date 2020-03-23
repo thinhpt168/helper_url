@@ -9,7 +9,7 @@
             "email": "phuthinh.dkt@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-dev",
     "require": {
         "php": ">=5.3.0"
     },
